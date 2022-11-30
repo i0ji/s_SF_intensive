@@ -1,0 +1,20 @@
+p {
+    font-size: 18px;
+    line-break: 28px;
+}
+
+section {
+    margin-bottom: 85px;
+}
+
+.container {
+    width: 100%;
+    max-width: 1440px;
+    marin: 0 auto;
+    background-color: red;
+}
+
+.header {
+    padding: 50px 0;
+    background-color: #424a57;
+}
